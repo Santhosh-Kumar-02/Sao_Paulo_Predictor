@@ -23,9 +23,7 @@ with st.sidebar:
   selected = option_menu(
     menu_title="Main Menu",
     options=[
-      "Project Information", "Data Collection", "Interactive Data Analysis",
-      "Insights", "Dashboards", "Contributors"
-    ],
+      "Project Information", "Data Collection", "Interactive Data Analysis"],
     default_index=0,
   )
 
