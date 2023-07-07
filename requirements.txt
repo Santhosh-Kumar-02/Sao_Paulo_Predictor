@@ -1,0 +1,7 @@
+pandas
+streamlit-option-menu
+Pillow
+streamlit
+datetime
+matplotlib
+streamlit-extras
