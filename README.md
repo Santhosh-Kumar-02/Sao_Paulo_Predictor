@@ -12,6 +12,10 @@ The São Paulo city subway system comprises 6 lines with 91 stations. Every day 
 
 In this project, the Omdena São Paulo, Brazil Chapter team aims to develop a monitoring and predicting system for subway passenger demand using machine learning.With a duration of 5-weeks, this project aims to: - Data Collection and Preprocessing. - Exploratory Data Analysis - Data Visualization. - Model Development and Training. - Web App Development.
 
+## 🔥 Demo
+
+For quick demo, you can visit [our website](https://demogpt.io)
+
 ## 🔧 Installation
 
 1. Clone the repository:
