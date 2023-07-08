@@ -1,5 +1,9 @@
 # SAO PAULO DEMAND PREDICTOR
 
+<p align="center">
+<a href=""><img src="banner_small.png" alt="DemoGPT logo: Generate automatic LangChain pipelines" width="450px"></a>
+</p>
+
 ## 🔨 The Problem
 
 The São Paulo city subway system comprises 6 lines with 91 stations. Every day on average more than 4 million people are transported. Although the system is under continuous update with new lines and stations being constructed, the passenger demand is still higher than transportation capacity in critical times every day. Only recently in the last years, the data for passenger demand has been opened to public access. There is no open monitoring system, dashboards, or predictive models to help the people and community decision-makers to understand the evolution and forecast the passenger demand for better urban planning.
