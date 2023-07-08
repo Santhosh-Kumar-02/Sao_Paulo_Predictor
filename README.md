@@ -1,7 +1,7 @@
 # SAO PAULO DEMAND PREDICTOR
 
 <p align="center">
-<a href=""><img src="banner_small.png" alt="DemoGPT logo: Generate automatic LangChain pipelines" width="450px"></a>
+<a href=""><img src= "sao.png" alt="sao_paulo_pre" width="800px"></a>
 </p>
 
 ## 🔨 The Problem
