@@ -14,7 +14,7 @@ In this project, the Omdena São Paulo, Brazil Chapter team aims to develop a mo
 
 ## 🔥 Demo
 
-For quick demo, you can visit [our website](https://demogpt.io)
+For quick demo, you can visit [the application](sp-trainway.streamlit.app/)
 
 ## 🔧 Installation
 
